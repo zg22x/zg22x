@@ -71,8 +71,7 @@
 
 <h2 align="center""> <img src="/imgs/title3.png" width="25"/> <em> Statistics </em> </h2>
 <div align = "center"> 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zg22x&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false%22%20width=%22100%%22/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zg22x&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false%22%20width=%22100%%22" />
 </div>
 
 
