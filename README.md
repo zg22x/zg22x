@@ -1,4 +1,4 @@
-<img src="bga.jpg" style="width: 100%; height: auto;" />
+<img src="bg.jpg" style="width: 100%; height: auto;" />
 
 <p align="center">
   <a href="https://www.instagram.com/zg22x/" target="_blank">
