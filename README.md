@@ -1,4 +1,4 @@
-<img src="bg.jpg" style="width: 100%; height: auto;" />
+<img src="bga.jpg" style="width: 100%; height: auto;" />
 
 <p align="center">
   <a href="https://www.instagram.com/zg22x/" target="_blank">
@@ -71,7 +71,7 @@
 
 <h2 align="center""> <img src="/imgs/title3.png" width="25"/> <em> Statistics </em> </h2>
 <div align = "center"> 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Benjamin-Solano&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zg22x&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false%22%20width=%22100%%22/>
 
 </div>
 
