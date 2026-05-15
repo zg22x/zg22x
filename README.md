@@ -1,4 +1,4 @@
-<img src = "githubanner.JPG"/>
+<img src = "bg.jpg"/>
 
 <p align="center">
   <a href="https://www.instagram.com/zg22x/" target="_blank">
