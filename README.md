@@ -27,7 +27,10 @@
 <br/>
 
 <p>
-  Hello There! <em><b>I'm ZAKI</b></em>, a tech enthusiast who enjoys building creative web projects and exploring new technologies. I spend a lot of time learning programming languages like HTML, CSS, C++, and working on fun development ideas such as movie websites, online games, and useful web tools. I also enjoy gaming, watching series, and improving my English skills while exploring modern tech and AI tools.
+  Hello There! <em><b>I'm ZAKI</b></em>, a tech enthusiast who enjoys building creative web projects and exploring new technologies. I spend a lot of time learning programming languages like HTML
+  CSS, C++, and working on fun development ideas such as movie websites, online games, and
+  useful web tools. I also enjoy gaming, watching series, and improving my English skills
+  while exploring modern tech and AI tools.
 
 </p>
 
@@ -36,7 +39,8 @@
 
 <p align="center">
    <img src="/imgs/img3.png" width="15"/>   <em><b> Self-taught developer building projects with HTML, CSS, C++ and JavaScript </b></em> <br/>
-<img src="/imgs/img4.png" width="15"/>   <em><b> Passionate about improving English skills and aiming to reach a higher level for travel and communication </b></em><br/>
+<img src="/imgs/img4.png" width="15"/>   <em><b> Passionate about improving English skills and aiming to reach a higher level for travel 
+  and communication </b></em><br/>
 <img src="/imgs/img2.png" width="15"/>   <em><b> Enjoys gaming, especially co-op games (open world & puzzle-based) across PC and mobile </b></em><br/>
 <img src="/imgs/img1.png" width="15"/>   <em><b> Interested in technology, AI tools, and building small web projects like games and useful websites </b></em><br/>
 </p>
