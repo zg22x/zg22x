@@ -2,14 +2,17 @@
 
 <p align="center">
   <a href="https://www.instagram.com/zg22x/" target="_blank">
-    <img src="(https://img.shields.io/badge/instgram-000000?style=for-the-badge&logo=linstgram&logoColor=white)" />
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+
   <a href="https://codeforces.com/profile/Glorfindell?csrf_token=bcab48565089a48c886f5cdb2c9a4ff5" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
-  <a href="https://www.pinterest.com/zg22x/_profile//" target="_blank">
+
+  <a href="https://www.pinterest.com/zg22x/_profile/" target="_blank">
     <img src="https://img.shields.io/badge/Pinterest-000000?style=for-the-badge&logo=pinterest&logoColor=white" />
   </a>
+
   <a href="https://www.chess.com/member/zg_22x" target="_blank">
     <img src="https://img.shields.io/badge/Chess.com-000000?style=for-the-badge&logo=chessdotcom&logoColor=white" />
   </a>
